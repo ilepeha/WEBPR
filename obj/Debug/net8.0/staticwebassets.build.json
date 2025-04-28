@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ezbKkIp9GPUvjNtpsKBdZVqCYKPLyWz5LNjIvRByhcs=",
+  "Source": "NotesManager.Api",
+  "BasePath": "_content/NotesManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
